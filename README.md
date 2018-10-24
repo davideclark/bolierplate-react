@@ -1,7 +1,9 @@
 # A bolierplate for react & redux, extending the create-react-app starter
 Tech Used
 
-Creating from starter create-react-app https://github.com/facebook/create-react-app
+Creating from starter [create-react-app](https://github.com/facebook/create-react-app)
+
+Influenced heavily by [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) without features such as internalisation and component async loading.
 
 Added following tech to kickstart.
 
