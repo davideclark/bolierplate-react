@@ -6,7 +6,7 @@ import { Provider } from 'react-redux';
 import createHistory from 'history/createBrowserHistory';
 import configureStore from './configureStore';
 import {Router} from 'react-router';
-
+import './app.css';
 
 const history = createHistory();
 const initialState = {};

@@ -1,11 +1,6 @@
 import React from 'react';
+import H2 from '../../components/H2';
 
 export default function NotFound() {
-  return (
-    <div>
-      <h1>
-        Page not found
-      </h1>
-    </div>
-  );
+  return (<H2>Page Not Found</H2>);
 }
