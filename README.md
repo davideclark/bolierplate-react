@@ -15,7 +15,7 @@ Added following tech to kickstart.
 
 To generate componenet run 'npm run generate' and follow instructions
 
-# h1 TODO - Add Thunk or Sagas for async api loading
+TODO - Add Thunk or Sagas for async api loading
 
 
 
