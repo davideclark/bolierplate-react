@@ -1,4 +1,4 @@
-# A bolierplate for react & redux, extendin the create-react-app starter
+# A bolierplate for react & redux, extending the create-react-app starter
 Tech Used
 
 Creating from starter create-react-app https://github.com/facebook/create-react-app
