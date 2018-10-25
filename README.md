@@ -13,7 +13,12 @@ Added following tech to kickstart.
 4. Enzyme (Testing tools) https://github.com/airbnb/enzyme
 5. Plop.JS (Templating) https://plopjs.com/
 
-To generate componenet run 'npm run generate' and follow instructions
+# Instructions
+1. Clone Repo 
+2. Open terminal in folder and run 'npm install' to install packages - this can take a while
+3. Open project in IDE - Recommend VS Code.
+4. In terminal run 'npm run start' to see project loading.
+5. To generate componenet run 'npm run generate' and follow instructions
 
 TODO - Add Thunk or Sagas for async api loading
 
